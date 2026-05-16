@@ -4,7 +4,7 @@ metadata:
   name: notes-app-service
   labels:
     app: notes-app
-  namespace: notes-app
+  namespace: nginx
 spec:
   selector:
     app: notes-app
